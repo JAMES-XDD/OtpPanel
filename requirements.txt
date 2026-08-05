@@ -1,0 +1,2 @@
+telethon==1.41.2
+aiohttp==3.12.15
